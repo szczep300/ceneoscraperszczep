@@ -31,7 +31,9 @@ selectors = {
     }
 # product_code=input("podaj kod produktu: ")        
 # product_code = "135886786"
-product_code = "135886786"
+product_code = "100001204"
+# product_code = "138536499"
+
 opinions_all = []
 url = f"https://www.ceneo.pl/{product_code}#tab=reviews"
 while url:

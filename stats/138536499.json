@@ -1,0 +1,24 @@
+{
+    "opinions_count": 500,
+    "pros_count": 261,
+    "cons_count": 261,
+    "average_score": 4.866,
+    "score": {
+        "0.0": 0,
+        "0.5": 1,
+        "1.0": 2,
+        "1.5": 1,
+        "2.0": 2,
+        "2.5": 1,
+        "3.0": 2,
+        "3.5": 3,
+        "4.0": 11,
+        "4.5": 46,
+        "5.0": 431
+    },
+    "recommendation": {
+        "Polecam": 488,
+        "Nie polecam": 7,
+        "null": 5
+    }
+}
